@@ -26,7 +26,7 @@
     "moment": "^2.24.0",
     "next": "^7.0.3",
     "next-routes": "^1.4.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "pkginfo": "^0.4.1",
     "query-string": "^6.8.1",
     "raw-loader": "^0.5.1",
